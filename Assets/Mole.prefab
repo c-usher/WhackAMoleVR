@@ -112,3 +112,4 @@ MonoBehaviour:
   visibleHeight: 0.2
   hiddenHeight: -0.3
   speed: 4
+  disappearDuration: 1.25

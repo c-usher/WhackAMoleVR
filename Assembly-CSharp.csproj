@@ -83,6 +83,7 @@
      <Compile Include="Assets\GoogleVR\Scripts\Controller\Internal\Emulator\PhoneEvent.cs" />
      <Compile Include="Assets\Player.cs" />
      <Compile Include="Assets\Mole.cs" />
+     <Compile Include="Assets\GameController.cs" />
      <None Include="Assets\GoogleVR\Resources\UI\GvrReticleShader.shader" />
      <None Include="Assets\GoogleVR\Legacy\Resources\UnlitTexture.shader" />
      <None Include="Assets\GoogleVR\Distortion\GvrDistortion.cginc" />
