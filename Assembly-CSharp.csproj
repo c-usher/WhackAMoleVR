@@ -81,6 +81,8 @@
      <Compile Include="Assets\GoogleVR\Scripts\GvrViewer.cs" />
      <Compile Include="Assets\GoogleVR\Legacy\Scripts\Internal\VRDevices\EditorDevice.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Controller\Internal\Emulator\PhoneEvent.cs" />
+     <Compile Include="Assets\Player.cs" />
+     <Compile Include="Assets\Mole.cs" />
      <None Include="Assets\GoogleVR\Resources\UI\GvrReticleShader.shader" />
      <None Include="Assets\GoogleVR\Legacy\Resources\UnlitTexture.shader" />
      <None Include="Assets\GoogleVR\Distortion\GvrDistortion.cginc" />
