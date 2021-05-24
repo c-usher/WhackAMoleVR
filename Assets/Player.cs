@@ -22,7 +22,8 @@ public class Player : MonoBehaviour
             {
                 if (hit.transform.GetComponent<Mole>() != null)
                 {
-                    Debug.Log("Hit Mole");
+                    Mole mole = hit.transform.GetComponent<Mole>();
+                    mole.OnHit();
                 }
             }
         }

@@ -1066,23 +1066,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 02d71dd22a54bb9429fbed597935a03d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!1 &1025046508 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3681230996960904976, guid: 827e877a4b517be4db26937cad8c31af, type: 3}
-  m_PrefabInstance: {fileID: 5376026695850000357}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1025046509
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1025046508}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 822b56ebad502b04c8d03a6e12261ba7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1394160157
 GameObject:
   m_ObjectHideFlags: 0
@@ -1981,6 +1964,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 409142017}
     m_Modifications:
+    - target: {fileID: 379280878439369951, guid: 827e877a4b517be4db26937cad8c31af, type: 3}
+      propertyPath: speed
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 3681230996960904976, guid: 827e877a4b517be4db26937cad8c31af, type: 3}
       propertyPath: m_Name
       value: Mole
