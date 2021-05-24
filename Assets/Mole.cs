@@ -14,7 +14,7 @@ public class Mole : MonoBehaviour
     {
         targetPosition = new Vector3(
             transform.localPosition.x,
-            hiddenHeight
+            hiddenHeight,
             transform.localPosition.z
 
         );
